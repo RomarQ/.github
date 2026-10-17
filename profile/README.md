@@ -28,7 +28,7 @@
       <br>
       <h3>Wuji Hand 2</h3>
       20-DoF dexterous hand with back-drivable direct drive, FOC, and MIT force-position control<br><br>
-      <a href="https://docs.wuji.tech/docs/en/wuji-hand/latest">Docs →</a>
+      <a href="https://docs.wuji.tech/en/docs/wuji-hand/latest">Docs →</a>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://www.youtube.com/watch?v=NE5FytzRz_E">
@@ -37,19 +37,19 @@
       <br>
       <h3>Wuji Glove</h3>
       Data glove with tactile matrix, 6-axis IMU, and finger tracking<br><br>
-      <a href="https://docs.wuji.tech/docs/en/wuji-glove/latest">Docs →</a>
+      <a href="https://docs.wuji.tech/en/docs/wuji-glove">Docs →</a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" height="120">
       <h3>Wuji SDK</h3>
       Python and C SDK for device discovery, real-time data streaming, recording, and hand control<br><br>
-      <a href="https://docs.wuji.tech/docs/en/wuji-sdk/latest">Docs →</a>
+      <a href="https://docs.wuji.tech/en/docs/wuji-sdk">Docs →</a>
     </td>
     <td align="center" width="50%" height="120">
       <h3>Wuji CLI</h3>
       Command-line tool for device discovery, parameter access, diagnostics, and firmware upgrade<br><br>
-      <a href="https://docs.wuji.tech/docs/en/wuji-cli/latest">Docs →</a>
+      <a href="https://docs.wuji.tech/en/docs/wuji-cli">Docs →</a>
     </td>
   </tr>
 </table>
